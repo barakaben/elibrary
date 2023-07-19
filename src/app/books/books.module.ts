@@ -8,7 +8,8 @@ import { BookDetaiComponent } from './book-detai/book-detai.component';
 @NgModule({
   declarations: [
     BookListComponent,
-    BookDetaiComponent
+    BookDetaiComponent,
+    
   ],
   imports: [
     CommonModule,
